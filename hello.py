@@ -10,3 +10,6 @@ def sestevanje(a, b):
 
 hello("student")
 print(sestevanje(1, 3))
+
+def switch(a, b)
+    return (b, a)
